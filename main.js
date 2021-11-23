@@ -31,16 +31,3 @@ function getGitHubProfileInfos() {
 }
 
 getGitHubProfileInfos()
-//crias os codigos em inglês
-//cameCase ---> linksRedesSocial
-//PascalCase ---> LinksRdesSocial
-//snake_case ---> links_redes_social
-
-//usando craze
-//alert(li.children[0].href)
-
-//document.getElementById('userName').textContent = 'Carolina Leite'
-//userName.textContent = 'Carol'
-// na programação conta numero -1,se numero = 10 então (0 ao 9)
-
-//ARROW FUNCTIONS
